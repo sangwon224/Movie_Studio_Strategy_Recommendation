@@ -1,4 +1,4 @@
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
-im.db.zip
-*/im.db.zip/*
+data/im.db
+*/data/im.db/*
