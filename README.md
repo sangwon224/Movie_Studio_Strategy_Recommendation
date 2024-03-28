@@ -53,14 +53,14 @@ We recommend the following to the leadership of S-Trio Entertainment:
 3. Approach production budget allocation strategically
 
 ## For More Information
-1. Detailed Analysis:  ([Jupyter Notebook] ())
-2. Presentation Slide: ([Presentation Deck] ())
-3. Tableau Dashboard:  ([Tableau Dashboard] ())
+- Detailed Analysis:  ([Jupyter Notebook] ())
+- Presentation Slide: ([Presentation Deck] ())
+- Tableau Dashboard:  ([Tableau Dashboard] ())
 
 ## Contributors:
-1. [Sam Choe](https://github.com/schoe4208)
-2. [Sangwon Shim](https://github.com/sangwon224)
-3. [Sarah Prusaitis](https://github.com/sarahprusaitis)
+- [Sam Choe](https://github.com/schoe4208)
+- [Sangwon Shim](https://github.com/sangwon224)
+- [Sarah Prusaitis](https://github.com/sarahprusaitis)
 
 ## Repository Structure
 ```
