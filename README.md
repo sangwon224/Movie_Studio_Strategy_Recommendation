@@ -29,21 +29,24 @@ Each database or dataset encompasses mostly distinct categories of movie informa
 ## Data Analysis
 Our analysis shows following observations:
 
-1. Mean of non-R rated movies is greater than mean of R-rated movies based on the samples. In order to validate the aforementioned statement, a two-sample T-test will be performed  *[Exhibit 1]*
-2. The top three most profitable genres are Adventure, Musical, and Action, with Adventure movies exhibiting the highest median profit, followed by Musical and Sci-Fi genres  *[Exhibit 2]*
-3. Our simple linear regression model (i.e., production budget vs profit) explains about 37.1% of the variance in profit. An increase of $1.00 in production budget is associated with an increase of $2.13 in profit.  *[Exhibit 3]*
+1. Mean box office revenue of non-R rated movies is greater than that of R-rated movies  *[Exhibit 1]*
+2. The top three most profitable genres are: Adventure, Musical, and Action. Adventure movies exhibits the highest median profit, followed by Musical and Action genres  *[Exhibit 2]*
+3. Team's simple linear regression model on production budget vs profit explains approx. 37.1% of the variance in profit. An increase of $1.00 in production budget is associated with an increase of $2.13 in profit.  *[Exhibit 3]*
 
 Exhibit 1
+
 ![image](https://github.com/sangwon224/Movie_Studio_Strategy_Recommendation/blob/main/image/screenshot%201.png)
 
 Exhibit 2
+
 ![image](https://github.com/sangwon224/Movie_Studio_Strategy_Recommendation/blob/main/image/screenshot%202.png)
 
 Exhibit 3
+
 ![image](https://github.com/sangwon224/Movie_Studio_Strategy_Recommendation/blob/main/image/screenshot%203.png)
 
 ## Conclusion
-We recommend following to the leadership of S-Trio Entertainment:
+We recommend the following to the leadership of S-Trio Entertainment:
 
 1. Focus on non-R rated movies
 2. Embrace Adventure genre
@@ -55,9 +58,9 @@ We recommend following to the leadership of S-Trio Entertainment:
 3. Tableau Dashboard:  ([Tableau Dashboard] ())
 
 ## Contributors:
-1. Sam Choe
-2. Sangwon Shim
-3. Sarah Prusaitis
+1. [Sam Choe](https://github.com/schoe4208)
+2. [Sangwon Shim](https://github.com/sangwon224)
+3. [Sarah Prusaitis](https://github.com/sarahprusaitis)
 
 ## Repository Structure
 ```
