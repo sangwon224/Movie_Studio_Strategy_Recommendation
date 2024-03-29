@@ -35,15 +35,16 @@ Our analysis shows following observations:
 
 Exhibit 1
 
-![image](https://github.com/sangwon224/Movie_Studio_Strategy_Recommendation/blob/main/image/screenshot%201.png)
+![image](https://github.com/sangwon224/Movie_Studio_Strategy_Recommendation/blob/main/image/RRatedMovies.jpg)
+![image](https://github.com/sangwon224/Movie_Studio_Strategy_Recommendation/blob/main/image/NonRRatedMovies.jpg)
 
 Exhibit 2
 
-![image](https://github.com/sangwon224/Movie_Studio_Strategy_Recommendation/blob/main/image/screenshot%202.png)
+![image](https://github.com/sangwon224/Movie_Studio_Strategy_Recommendation/blob/main/image/ProfitVsGenre.jpg)
 
 Exhibit 3
 
-![image](https://github.com/sangwon224/Movie_Studio_Strategy_Recommendation/blob/main/image/screenshot%203.png)
+![image](https://github.com/sangwon224/Movie_Studio_Strategy_Recommendation/blob/main/image/BudgetVsProfit.jpg)
 
 ## Conclusion
 We recommend the following to the leadership of S-Trio Entertainment:
@@ -53,9 +54,9 @@ We recommend the following to the leadership of S-Trio Entertainment:
 3. Approach production budget allocation strategically
 
 ## For More Information
-- Detailed Analysis:  ([Jupyter Notebook] ())
-- Presentation Slide: ([Presentation Deck] ())
-- Tableau Dashboard:  ([Tableau Dashboard] ())
+- Detailed Analysis:  [Jupyter Notebook](https://github.com/sangwon224/Movie_Studio_Strategy_Recommendation/blob/main/Movie_Studio_Strategy_Recommendation.ipynb)
+- Presentation Deck: [Presentation Deck](https://github.com/sangwon224/Movie_Studio_Strategy_Recommendation/blob/main/presentation.pdf)
+- Tableau Dashboard:  [Tableau Dashboard](https://public.tableau.com/views/LightsCameraData-STrioEntertainmentAnalysis/Dashboard1?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)
 
 ## Contributors:
 - [Sam Choe](https://github.com/schoe4208)
@@ -71,9 +72,10 @@ We recommend the following to the leadership of S-Trio Entertainment:
     |— tmdb.movies.csv.gz                                    <- Raw data
     |— tn.movie_budgets.csv.gz                               <- Raw data
 |— image                                                     <- Screenshots
-    |— screenshot 1.png                                      <- Screenshot
-    |— screenshot 2.png                                      <- Screenshot
-    |— screenshot 3.png                                      <- Screenshot
+    |— BudgetVsProfit.jpg                                    <- Screenshot
+    |— NonRRatedMovies.jpg                                   <- Screenshot
+    |— ProfitVsGenre.jpg                                     <- Screenshot
+    |— RRatedMovies.jpg                                      <- Screenshot
 |— README.md                                                 <- Overview of the Project
 |— .gitignore                                                <- List of files to exclude
 |— Movie Studio Strategy Recommendation.ipynb                <- Detailed analysis in Jupyter Notebook
