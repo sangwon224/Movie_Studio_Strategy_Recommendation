@@ -35,8 +35,7 @@ Our analysis shows following observations:
 
 Exhibit 1
 
-![image](https://github.com/sangwon224/Movie_Studio_Strategy_Recommendation/blob/main/image/RRatedMovies.jpg)
-![image](https://github.com/sangwon224/Movie_Studio_Strategy_Recommendation/blob/main/image/NonRRatedMovies.jpg)
+![image](https://github.com/sangwon224/Movie_Studio_Strategy_Recommendation/blob/main/image/R%20vs%20NonR.png)
 
 Exhibit 2
 
@@ -73,9 +72,8 @@ We recommend the following to the leadership of S-Trio Entertainment:
     |— tn.movie_budgets.csv.gz                               <- Raw data
 |— image                                                     <- Screenshots
     |— BudgetVsProfit.jpg                                    <- Screenshot
-    |— NonRRatedMovies.jpg                                   <- Screenshot
     |— ProfitVsGenre.jpg                                     <- Screenshot
-    |— RRatedMovies.jpg                                      <- Screenshot
+    |— R vs NonR.png                                         <- Screenshot
 |— README.md                                                 <- Overview of the Project
 |— .gitignore                                                <- List of files to exclude
 |— Movie Studio Strategy Recommendation.ipynb                <- Detailed analysis in Jupyter Notebook
